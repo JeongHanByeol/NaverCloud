@@ -1,76 +1,66 @@
-[DEBUG] 2019-11-18 19:16:41.269 ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
-[DEBUG] 2019-11-18 19:16:41.276 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
-[DEBUG] 2019-11-18 19:16:41.277 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
-[DEBUG] 2019-11-18 19:16:41.277 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
-[DEBUG] 2019-11-18 19:16:41.277 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
-[DEBUG] 2019-11-18 19:16:41.278 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
-[DEBUG] 2019-11-18 19:16:42.627 TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
-[DEBUG] 2019-11-18 19:16:42.627 ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
-[DEBUG] 2019-11-18 19:16:42.629 TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
-[DEBUG] 2019-11-18 19:16:42.629 ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
-[DEBUG] 2019-11-18 19:16:42.629 ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
-[DEBUG] 2019-11-18 19:16:42.630 ConfigurationImpl - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
-[DEBUG] 2019-11-18 19:16:42.631 ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
-[DEBUG] 2019-11-18 19:16:42.631 ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
-[DEBUG] 2019-11-18 19:16:42.631 ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
-[DEBUG] 2019-11-18 19:16:42.631 ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
-[DEBUG] 2019-11-18 19:16:42.631 ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
-[DEBUG] 2019-11-18 19:16:42.634 ValidatorFactoryImpl - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
-[DEBUG] 2019-11-18 19:16:42.634 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
-[DEBUG] 2019-11-18 19:16:42.634 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
-[DEBUG] 2019-11-18 19:16:42.634 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
-[DEBUG] 2019-11-18 19:16:42.634 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
-[DEBUG] 2019-11-18 19:17:24.913 ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
-[DEBUG] 2019-11-18 19:17:24.921 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
-[DEBUG] 2019-11-18 19:17:24.921 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
-[DEBUG] 2019-11-18 19:17:24.921 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
-[DEBUG] 2019-11-18 19:17:24.921 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
-[DEBUG] 2019-11-18 19:17:24.921 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
-[DEBUG] 2019-11-18 19:17:26.248 TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
-[DEBUG] 2019-11-18 19:17:26.248 ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
-[DEBUG] 2019-11-18 19:17:26.250 TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
-[DEBUG] 2019-11-18 19:17:26.250 ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
-[DEBUG] 2019-11-18 19:17:26.251 ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
-[DEBUG] 2019-11-18 19:17:26.251 ConfigurationImpl - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
-[DEBUG] 2019-11-18 19:17:26.252 ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
-[DEBUG] 2019-11-18 19:17:26.252 ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
-[DEBUG] 2019-11-18 19:17:26.252 ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
-[DEBUG] 2019-11-18 19:17:26.252 ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
-[DEBUG] 2019-11-18 19:17:26.252 ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
-[DEBUG] 2019-11-18 19:17:26.255 ValidatorFactoryImpl - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
-[DEBUG] 2019-11-18 19:17:26.255 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
-[DEBUG] 2019-11-18 19:17:26.255 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
-[DEBUG] 2019-11-18 19:17:26.255 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
-[DEBUG] 2019-11-18 19:17:26.255 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
-[DEBUG] 2019-11-18 19:18:02.153 TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
-[DEBUG] 2019-11-18 19:18:02.154 ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
-[DEBUG] 2019-11-18 19:18:02.154 TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
-[DEBUG] 2019-11-18 19:18:02.154 ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
-[DEBUG] 2019-11-18 19:18:02.154 ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
-[DEBUG] 2019-11-18 19:18:02.154 ConfigurationImpl - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
-[DEBUG] 2019-11-18 19:18:02.155 ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
-[DEBUG] 2019-11-18 19:18:02.155 ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
-[DEBUG] 2019-11-18 19:18:02.155 ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
-[DEBUG] 2019-11-18 19:18:02.155 ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
-[DEBUG] 2019-11-18 19:18:02.155 ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
-[DEBUG] 2019-11-18 19:18:02.158 ValidatorFactoryImpl - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
-[DEBUG] 2019-11-18 19:18:02.158 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
-[DEBUG] 2019-11-18 19:18:02.158 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
-[DEBUG] 2019-11-18 19:18:02.158 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
-[DEBUG] 2019-11-18 19:18:02.158 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
-[DEBUG] 2019-11-18 19:18:18.854 TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
-[DEBUG] 2019-11-18 19:18:18.855 ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
-[DEBUG] 2019-11-18 19:18:18.855 TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
-[DEBUG] 2019-11-18 19:18:18.855 ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
-[DEBUG] 2019-11-18 19:18:18.855 ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
-[DEBUG] 2019-11-18 19:18:18.855 ConfigurationImpl - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
-[DEBUG] 2019-11-18 19:18:18.856 ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
-[DEBUG] 2019-11-18 19:18:18.856 ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
-[DEBUG] 2019-11-18 19:18:18.856 ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
-[DEBUG] 2019-11-18 19:18:18.856 ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
-[DEBUG] 2019-11-18 19:18:18.856 ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
-[DEBUG] 2019-11-18 19:18:18.859 ValidatorFactoryImpl - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
-[DEBUG] 2019-11-18 19:18:18.859 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
-[DEBUG] 2019-11-18 19:18:18.859 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
-[DEBUG] 2019-11-18 19:18:18.859 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
-[DEBUG] 2019-11-18 19:18:18.859 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+[DEBUG] 2019-11-18 19:22:48.348 ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
+[DEBUG] 2019-11-18 19:22:48.361 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+[DEBUG] 2019-11-18 19:22:48.362 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+[DEBUG] 2019-11-18 19:22:48.362 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+[DEBUG] 2019-11-18 19:22:48.362 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+[DEBUG] 2019-11-18 19:22:48.363 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+[DEBUG] 2019-11-18 19:22:49.686 TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG] 2019-11-18 19:22:49.686 ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
+[DEBUG] 2019-11-18 19:22:49.688 TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG] 2019-11-18 19:22:49.689 ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG] 2019-11-18 19:22:49.689 ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG] 2019-11-18 19:22:49.689 ConfigurationImpl - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[DEBUG] 2019-11-18 19:22:49.690 ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG] 2019-11-18 19:22:49.690 ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+[DEBUG] 2019-11-18 19:22:49.690 ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+[DEBUG] 2019-11-18 19:22:49.691 ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG] 2019-11-18 19:22:49.691 ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+[DEBUG] 2019-11-18 19:22:49.694 ValidatorFactoryImpl - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+[DEBUG] 2019-11-18 19:22:49.695 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+[DEBUG] 2019-11-18 19:22:49.695 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+[DEBUG] 2019-11-18 19:22:49.695 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+[DEBUG] 2019-11-18 19:22:49.695 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+[DEBUG] 2019-11-18 19:24:02.369 ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
+[DEBUG] 2019-11-18 19:24:02.376 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+[DEBUG] 2019-11-18 19:24:02.377 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+[DEBUG] 2019-11-18 19:24:02.377 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+[DEBUG] 2019-11-18 19:24:02.377 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+[DEBUG] 2019-11-18 19:24:02.377 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+[DEBUG] 2019-11-18 19:24:03.748 TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG] 2019-11-18 19:24:03.748 ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
+[DEBUG] 2019-11-18 19:24:03.750 TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG] 2019-11-18 19:24:03.750 ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG] 2019-11-18 19:24:03.750 ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG] 2019-11-18 19:24:03.751 ConfigurationImpl - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[DEBUG] 2019-11-18 19:24:03.751 ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG] 2019-11-18 19:24:03.752 ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+[DEBUG] 2019-11-18 19:24:03.752 ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+[DEBUG] 2019-11-18 19:24:03.752 ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG] 2019-11-18 19:24:03.752 ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+[DEBUG] 2019-11-18 19:24:03.755 ValidatorFactoryImpl - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+[DEBUG] 2019-11-18 19:24:03.755 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+[DEBUG] 2019-11-18 19:24:03.755 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+[DEBUG] 2019-11-18 19:24:03.755 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+[DEBUG] 2019-11-18 19:24:03.755 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+[DEBUG] 2019-11-18 19:25:21.559 ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
+[DEBUG] 2019-11-18 19:25:21.573 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+[DEBUG] 2019-11-18 19:25:21.573 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+[DEBUG] 2019-11-18 19:25:21.573 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+[DEBUG] 2019-11-18 19:25:21.574 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+[DEBUG] 2019-11-18 19:25:21.574 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+[DEBUG] 2019-11-18 19:25:23.079 TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG] 2019-11-18 19:25:23.080 ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
+[DEBUG] 2019-11-18 19:25:23.089 TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+[DEBUG] 2019-11-18 19:25:23.091 ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+[DEBUG] 2019-11-18 19:25:23.091 ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+[DEBUG] 2019-11-18 19:25:23.092 ConfigurationImpl - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+[DEBUG] 2019-11-18 19:25:23.093 ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+[DEBUG] 2019-11-18 19:25:23.093 ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+[DEBUG] 2019-11-18 19:25:23.094 ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+[DEBUG] 2019-11-18 19:25:23.094 ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[DEBUG] 2019-11-18 19:25:23.095 ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+[DEBUG] 2019-11-18 19:25:23.101 ValidatorFactoryImpl - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+[DEBUG] 2019-11-18 19:25:23.101 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+[DEBUG] 2019-11-18 19:25:23.101 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+[DEBUG] 2019-11-18 19:25:23.101 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+[DEBUG] 2019-11-18 19:25:23.102 ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
