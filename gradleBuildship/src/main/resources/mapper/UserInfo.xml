@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.test.dao.UserInfoDao">
+	<select id="selectList" resultType="com.test.vo.UserInfoVo">
+		SELECT	*
+		FROM	USER_INFO_1
+	</select>
+	
+	<select id="existsUserId" parameterType="string" resultType="int">
+		SELECT	COUNT(*)
+		FROM	USER_INFO_1
+		WHERE	USER_ID = #{value}
+	</select>
+	
+	<insert id="insert" parameterType="com.test.vo.UserInfoVo">
+		INSERT	INTO	USER_INFO_1
+		VALUES(#{userId}, #{userPw}, #{userName}, #{userHeight}, #{userWeight}, #{joinDate})
+	</insert>
+</mapper>
