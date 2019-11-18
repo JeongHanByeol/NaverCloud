@@ -22,6 +22,7 @@ public class UserInfoController {
 
 	@GetMapping("insert")
 	public void insert(UserInfoVo userInfoVo, Model model) {
+		System.out.println("123");
 		model.addAttribute("userInfoVo", userInfoVo);
 	}
 
